@@ -1,11 +1,11 @@
-# 知識工作總資料夾
+# 知識工作學習
 
 我的知識工作基地。
 
 ## 三個家
 - 📋 GDrive：自動跨電腦同步
 - 🐙 GitHub：`HKJ-ccu/my-knowledge-lab`
-- 📘 Obsidian：`Obsidian_Brain二代/知識工作總資料夾/`
+- 📘 Obsidian：`Obsidian_Brain二代/知識工作學習/`
 
 ## 工作節奏
 1. 說「我想做 XXX」開新專案
